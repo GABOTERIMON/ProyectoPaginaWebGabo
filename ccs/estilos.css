@@ -46,6 +46,9 @@ gap: 10px;
 .menu-superior li {
     display: inline;
     padding: 10px;
+   
+}
+.borderDerecho li{
     border-right: solid 2px;
 }
 .menu-superior li:last-child{
